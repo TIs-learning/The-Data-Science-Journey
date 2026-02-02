@@ -1,65 +1,41 @@
 Soal 1 — Lempar Koin (basic banget)
-
 Dua koin dilempar bersamaan.
-
 a. Tuliskan sample space
 b. Definisikan random variable
-
 X = jumlah sisi gambar
 c. Tentukan nilai-nilai yang mungkin dari X
-
 📌 fokus: paham pemetaan kejadian → angka
 
 Soal 2 — Lempar Dadu
-
 Sebuah dadu dilempar sekali.
-
 Definisikan:
-
 X = angka yang muncul pada dadu
-
 a. Apakah X termasuk random variable diskrit atau kontinu?
 b. Tuliskan semua nilai X yang mungkin
-
 📌 fokus: jenis RV
 
 Soal 3 — Hadir Mahasiswa
-
 Dalam satu kelas, probabilitas seorang mahasiswa hadir adalah 0.8.
-
 Misalkan:
-
 X = jumlah mahasiswa yang hadir dari 3 mahasiswa
-
 a. Apakah X random variable diskrit atau kontinu?
 b. Nilai apa saja yang mungkin dari X?
-
 ⚠️ belum hitung peluang dulu — hanya struktur RV
 
 Soal 4 — Kartu Remi
-
 Satu kartu diambil secara acak dari satu set kartu remi (52 kartu).
-
 Definisikan:
-
 X = jumlah kartu merah yang terambil
-
 a. Nilai X yang mungkin?
 b. Apakah X termasuk random variable diskrit?
-
 📌 perhatikan: eksperimen sekali doang
 
 Soal 5 — Waktu Tunggu (beda dunia)
-
 Waktu tunggu seseorang di loket bank dicatat (dalam menit).
-
 Definisikan:
-
 X = waktu tunggu pelanggan
-
 a. Apakah X termasuk random variable diskrit atau kontinu?
 b. Kenapa X tidak bisa dimodelkan sebagai diskrit?
-
 📌 ini transisi ke dunia statistik & ML
 
 ## Jawaban Random Variable 
@@ -82,6 +58,9 @@ b. Kenapa X tidak bisa dimodelkan sebagai diskrit?
 
 5. a. kontinu
    b. Dari yang saya pelajari tipe data diskrit ini menghitung perkejadian dan dinyatakan kalau dalam 1 kejadian itu tidak ada nilai diantaranya sedangkan waktu itu satu sama lain terhubung sehingga ada nilai ditengah
+
+Note : 1. Belum gua tanyai untuk jawaban no 4 apakah harus 1 dan 0 atau tidak, karena ini bukan peluang. Harusnya bisa selain itu
+
 
 
 
